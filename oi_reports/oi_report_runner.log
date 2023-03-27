@@ -1,0 +1,12 @@
+2023-03-27 11:45:22,852 - [6121598976] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-27 11:45:22,854 - [6121598976] - INFO - base:_real_add_job(): Added job "FantasticApp._move_sheets_runner" to job store "default"
+2023-03-27 11:45:22,854 - [6121598976] - INFO - base:start(): Scheduler started
+2023-03-27 11:45:27,851 - [8403729024] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-27 11:45:27,851 - [8403729024] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-27 11:45:49,911 - [6138425344] - INFO - _internal:_log(): 127.0.0.1 - - [27/Mar/2023 11:45:49] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-27 11:45:49,941 - [6155251712] - INFO - _internal:_log(): 127.0.0.1 - - [27/Mar/2023 11:45:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-03-27 11:47:19,144 - [6138425344] - INFO - main:_move_sheets_runner(): Starting move sheets run...
+2023-03-27 11:47:19,144 - [6138425344] - INFO - main:_move_sheets_runner(): triggered manually
+2023-03-27 11:47:19,145 - [6138425344] - INFO - _internal:_log(): 127.0.0.1 - - [27/Mar/2023 11:47:19] "GET /move_sheets HTTP/1.1" 200 -
+2023-03-27 11:51:57,900 - [6138425344] - INFO - _internal:_log(): 127.0.0.1 - - [27/Mar/2023 11:51:57] "GET /next_run_times HTTP/1.1" 200 -

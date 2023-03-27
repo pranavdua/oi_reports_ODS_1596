@@ -1,0 +1,15 @@
+2023-03-25 16:29:45,770 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 16:30:00,884 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 16:30:01,016 - [8179071616] - INFO - main:run_tastic(): starting google drive authentication
+2023-03-25 16:30:02,481 - [6120599552] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 16:30:02,857 - [6120599552] - INFO - base:start(): Scheduler started
+2023-03-25 16:35:56,873 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 16:35:57,005 - [8179071616] - INFO - main:run_tastic(): starting google drive authentication
+2023-03-25 16:35:58,383 - [6113914880] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 16:35:58,727 - [6113914880] - INFO - base:start(): Scheduler started
+2023-03-25 16:36:03,410 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2023-03-25 16:36:03,742 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 16:36:31,769 - [6130741248] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 16:36:31] "GET /next_run_times HTTP/1.1" 200 -

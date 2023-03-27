@@ -1,0 +1,22 @@
+{
+    "DESTINATION_FOLDER_ID": "1krQG1NVSLeLfHz7dsQD8eI4ioWVWN_oj",
+    "SOURCE_SPREADSHEET_ID": "1IFZ85tFGSM7bQvpkpwJ_GYAj9yze8K047tq-Ox7SPvk",
+    "SHEETS_INFO": [{"sheetId" : "663031387", "source_row_start":0, "source_row_end" : null, "source_column_start" : 0, "source_column_end":null, "dest_row_start":0, "dest_column_start" : 0},
+                    {"sheetId" : "1357005692", "source_row_start":6, "source_row_end" : 190, "source_column_start" : 6, "source_column_end":13, "dest_row_start":6, "dest_column_start" : 6},
+                    {"sheetId" : "1495314681", "source_row_start": null, "source_row_end" : null, "source_column_start" : null, "source_column_end": null, "dest_row_start": null, "dest_column_start" : null}],
+    "CLEAR_SHEET_DATA_CONTENT" : [{"sheetId": "1495314681", "startRowIndex": 31, "endRowIndex": 60, "startColumnIndex": 1, "endColumnIndex": 8}],
+    "UPDATE_SHEET_DIMENSION" : [{"sheetId": "1357005692", "dimension" : "ROWS", "startIndex" : 0, "endIndex" : 4}
+                               ,{"sheetId": "1357005692", "dimension" : "COLUMNS", "startIndex" : 0, "endIndex" : 4}],
+    "COLUMN_CHANGE_PARAMETERS" : [{"sheetId" : "663031387", "startRowIndex": null, "endRowIndex": null, "startColumnIndex": 2, "endColumnIndex":5}],
+    "NEW_SHEETS_NAME" : {"663031387" : "Incidents", "1357005692" : "Incident Metrics", "1495314681" : "API Metrics"},
+    "SCOPES": [
+        "https://www.googleapis.com/auth/drive",
+        "https://www.googleapis.com/auth/drive.file",
+        "https://www.googleapis.com/auth/spreadsheets",
+        "https://www.googleapis.com/auth/cloud-platform"
+    ],
+    "SHEET_URL": "https://docs.google.com/spreadsheets/d/",
+    "PSP_DATA_REFRESH_TABLE_NAME" : {"project_name":"ods-metrics", "dataset_name":"oi_psp_report_tf", "table_name":"psp_report_refresh_date"},
+    "REPORTING_TABLE_NAME" : {"project_name":"ods-metrics", "dataset_name":"oi_psp_report_tf", "table_name":"psp_report_v2_logs"},
+    "LATEST_FILE_NAME" : "Product Stability and Performance (w/e {})"
+}

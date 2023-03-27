@@ -1,0 +1,5 @@
+version: 1 
+type: admiral 
+jira_project_id: ODS
+team: ods
+other_admiral_roles: []

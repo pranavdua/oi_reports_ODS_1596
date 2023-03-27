@@ -1,0 +1,20 @@
+2023-03-26 07:37:42,287 - [6140342272] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-26 07:37:42,289 - [6140342272] - INFO - base:_real_add_job(): Added job "FantasticApp._move_sheets_runner" to job store "default"
+2023-03-26 07:37:42,289 - [6140342272] - INFO - base:start(): Scheduler started
+2023-03-26 07:37:47,273 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-26 07:37:47,273 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-26 07:38:07,000 - [6157168640] - INFO - _internal:_log(): 127.0.0.1 - - [26/Mar/2023 07:38:07] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-26 07:39:17,492 - [6173995008] - INFO - _internal:_log(): 127.0.0.1 - - [26/Mar/2023 07:39:17] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-26 07:45:39,574 - [6157168640] - INFO - _internal:_log(): 127.0.0.1 - - [26/Mar/2023 07:45:39] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-26 07:59:36,684 - [6155104256] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-26 07:59:36,685 - [6155104256] - INFO - base:_real_add_job(): Added job "FantasticApp._move_sheets_runner" to job store "default"
+2023-03-26 07:59:36,685 - [6155104256] - INFO - base:start(): Scheduler started
+2023-03-26 07:59:41,657 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-26 07:59:41,657 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-26 08:08:00,146 - [6171930624] - INFO - _internal:_log(): 127.0.0.1 - - [26/Mar/2023 08:08:00] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-26 08:21:01,241 - [6171930624] - INFO - _internal:_log(): 127.0.0.1 - - [26/Mar/2023 08:21:01] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-26 08:28:42,043 - [6171930624] - INFO - _internal:_log(): 127.0.0.1 - - [26/Mar/2023 08:28:42] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-26 08:28:49,375 - [6171930624] - INFO - _internal:_log(): 127.0.0.1 - - [26/Mar/2023 08:28:49] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-26 08:28:50,633 - [6325039104] - INFO - _internal:_log(): 127.0.0.1 - - [26/Mar/2023 08:28:50] "GET /next_run_times HTTP/1.1" 200 -

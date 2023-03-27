@@ -1,0 +1,190 @@
+2023-03-25 08:48:18,718 - [8179071616] - INFO - main:__init__(): starting google drive authentication
+2023-03-25 08:48:20,157 - [6144143360] - INFO - base:start(): Scheduler started
+2023-03-25 08:48:20,167 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 08:48:20,866 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 08:48:21,216 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 08:48:23,758 - [8179071616] - INFO - main:__init__(): starting google drive authentication
+2023-03-25 08:48:25,196 - [6182760448] - INFO - base:start(): Scheduler started
+2023-03-25 08:48:25,205 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 08:48:25,944 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 08:48:36,351 - [6216413184] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:48:36] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:48:39,843 - [6233239552] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:48:39] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:48:41,322 - [6216413184] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:48:41] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:49:15,435 - [6233239552] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:49:15] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:49:39,821 - [8179071616] - INFO - main:__init__(): starting google drive authentication
+2023-03-25 08:49:41,183 - [6105051136] - INFO - base:start(): Scheduler started
+2023-03-25 08:49:41,192 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 08:49:41,884 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 08:49:42,561 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 08:49:44,772 - [8179071616] - INFO - main:__init__(): starting google drive authentication
+2023-03-25 08:49:46,181 - [6142783488] - INFO - base:start(): Scheduler started
+2023-03-25 08:49:46,186 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 08:49:46,915 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 08:50:19,326 - [8179071616] - INFO - _internal:_log():  * Detected change in '/Users/pdua/Projects/oi_reports/main/main.py', reloading
+2023-03-25 08:50:42,980 - [8179071616] - INFO - main:__init__(): starting google drive authentication
+2023-03-25 08:50:44,407 - [6182432768] - INFO - base:start(): Scheduler started
+2023-03-25 08:50:44,413 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 08:50:45,092 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 08:50:45,790 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 08:50:47,847 - [8179071616] - INFO - main:__init__(): starting google drive authentication
+2023-03-25 08:50:49,298 - [10754224128] - INFO - base:start(): Scheduler started
+2023-03-25 08:50:49,305 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 08:50:50,031 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 08:51:01,136 - [10787876864] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:51:01] "[33mGET / HTTP/1.1[0m" 404 -
+2023-03-25 08:51:01,558 - [10804703232] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:51:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-03-25 08:51:07,901 - [10787876864] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:51:07] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:51:14,821 - [10804703232] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:51:14] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:51:50,231 - [8179071616] - INFO - _internal:_log():  * Detected change in '/Users/pdua/Projects/oi_reports/main/main.py', reloading
+2023-03-25 08:53:19,990 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 08:53:19,992 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 08:53:19,994 - [6148665344] - INFO - base:_real_add_job(): Added job "SchedulerAPI.job_function" to job store "default"
+2023-03-25 08:53:19,995 - [6148665344] - INFO - base:_real_add_job(): Added job "SchedulerAPI.job_function" to job store "default"
+2023-03-25 08:53:19,995 - [6148665344] - INFO - base:start(): Scheduler started
+2023-03-25 08:53:20,005 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 08:53:20,005 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 08:53:20,006 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 08:53:21,811 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 08:53:21,815 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 08:53:21,816 - [6175125504] - INFO - base:_real_add_job(): Added job "SchedulerAPI.job_function" to job store "default"
+2023-03-25 08:53:21,817 - [6175125504] - INFO - base:_real_add_job(): Added job "SchedulerAPI.job_function" to job store "default"
+2023-03-25 08:53:21,817 - [6175125504] - INFO - base:start(): Scheduler started
+2023-03-25 08:53:21,824 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 08:53:21,837 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 08:53:29,995 - [6165491712] - INFO - base:run_job(): Running job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:39 IST)" (scheduled at 2023-03-25 08:53:29.990006+05:30)
+2023-03-25 08:53:29,995 - [6165491712] - INFO - base:run_job(): Job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:39 IST)" executed successfully
+2023-03-25 08:53:31,814 - [6208778240] - INFO - base:run_job(): Running job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:41 IST)" (scheduled at 2023-03-25 08:53:31.811360+05:30)
+2023-03-25 08:53:31,815 - [6208778240] - INFO - base:run_job(): Job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:41 IST)" executed successfully
+2023-03-25 08:53:38,635 - [6225604608] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:53:38] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:53:39,994 - [6165491712] - INFO - base:run_job(): Running job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:49 IST)" (scheduled at 2023-03-25 08:53:39.990006+05:30)
+2023-03-25 08:53:39,994 - [6165491712] - INFO - base:run_job(): Job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:49 IST)" executed successfully
+2023-03-25 08:53:40,011 - [6242430976] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:53:40] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:53:40,998 - [6225604608] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:53:40] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:53:41,798 - [6242430976] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:53:41] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:53:41,816 - [6208778240] - INFO - base:run_job(): Running job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:51 IST)" (scheduled at 2023-03-25 08:53:41.811360+05:30)
+2023-03-25 08:53:41,817 - [6208778240] - INFO - base:run_job(): Job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:51 IST)" executed successfully
+2023-03-25 08:53:42,527 - [6225604608] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:53:42] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:53:43,201 - [6242430976] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 08:53:43] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 08:53:49,990 - [6165491712] - INFO - base:run_job(): Running job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:59 IST)" (scheduled at 2023-03-25 08:53:49.990006+05:30)
+2023-03-25 08:53:49,990 - [6165491712] - INFO - base:run_job(): Job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:53:59 IST)" executed successfully
+2023-03-25 08:53:56,072 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 08:53:56,074 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 08:53:56,075 - [6115061760] - INFO - base:_real_add_job(): Added job "SchedulerAPI.job_function" to job store "default"
+2023-03-25 08:53:56,076 - [6115061760] - INFO - base:_real_add_job(): Added job "SchedulerAPI.job_function" to job store "default"
+2023-03-25 08:53:56,076 - [6115061760] - INFO - base:start(): Scheduler started
+2023-03-25 08:53:56,081 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 08:53:56,082 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 08:53:56,082 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 08:54:06,077 - [6131888128] - INFO - base:run_job(): Running job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:54:16 IST)" (scheduled at 2023-03-25 08:54:06.072234+05:30)
+2023-03-25 08:54:06,077 - [6131888128] - INFO - base:run_job(): Job "SchedulerAPI.job_function (trigger: interval[0:00:10], next run at: 2023-03-25 08:54:16 IST)" executed successfully
+2023-03-25 09:06:12,806 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:06:23,281 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:06:23,417 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:06:38,885 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:06:39,025 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:06:40,525 - [6177976320] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:06:40,534 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 09:06:41,208 - [6177976320] - INFO - base:start(): Scheduler started
+2023-03-25 09:06:41,929 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 09:06:43,022 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 09:06:45,446 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:06:45,586 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:06:46,963 - [6110670848] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:06:46,972 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 09:06:47,283 - [6110670848] - INFO - base:start(): Scheduler started
+2023-03-25 09:06:47,662 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 09:06:56,900 - [6144323584] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:06:56] "[33mGET / HTTP/1.1[0m" 404 -
+2023-03-25 09:07:02,652 - [6161149952] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:07:02] "[35m[1mGET /next_run_times HTTP/1.1[0m" 500 -
+2023-03-25 09:07:03,048 - [6144323584] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:07:03] "GET /next_run_times?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-03-25 09:07:03,057 - [6161149952] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:07:03] "GET /next_run_times?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-03-25 09:07:04,383 - [6144323584] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:07:04] "GET /next_run_times?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-03-25 09:07:04,754 - [6144323584] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:07:04] "[36mGET /next_run_times?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-03-25 09:07:25,860 - [8179071616] - INFO - _internal:_log():  * Detected change in '/Users/pdua/Projects/oi_reports/main/main.py', reloading
+2023-03-25 09:07:54,737 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:07:54,878 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:07:56,395 - [6148812800] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:07:56,401 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 09:07:56,800 - [6148812800] - INFO - base:start(): Scheduler started
+2023-03-25 09:07:57,537 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 09:07:58,436 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 09:08:01,659 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:08:01,799 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:08:03,674 - [6152712192] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:08:03,684 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 09:08:05,661 - [6152712192] - INFO - base:start(): Scheduler started
+2023-03-25 09:08:06,066 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 09:08:14,547 - [6186364928] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:08:14] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 09:09:45,639 - [8179071616] - INFO - _internal:_log():  * Detected change in '/Users/pdua/Projects/oi_reports/main/main.py', reloading
+2023-03-25 09:09:58,591 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:09:58,724 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:10:00,291 - [6325039104] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:10:00,297 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 09:10:00,687 - [6325039104] - INFO - base:start(): Scheduler started
+2023-03-25 09:10:01,098 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 09:10:02,219 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 09:10:04,370 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:10:04,501 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:10:06,019 - [6184775680] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:10:06,027 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 09:10:06,371 - [6184775680] - INFO - base:start(): Scheduler started
+2023-03-25 09:10:07,220 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 09:13:13,397 - [8179071616] - INFO - _internal:_log():  * Detected change in '/Users/pdua/Projects/oi_reports/main/main.py', reloading
+2023-03-25 09:14:05,455 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:14:05,586 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:14:07,019 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 09:14:07,341 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 09:14:07,754 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 09:14:09,402 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:14:09,533 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:14:11,275 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 09:14:11,672 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 09:14:44,133 - [8179071616] - INFO - _internal:_log():  * Detected change in '/Users/pdua/Projects/oi_reports/main/main.py', reloading
+2023-03-25 09:14:44,622 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 09:14:46,050 - [8179071616] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:15:25,573 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:15:25,703 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:15:27,264 - [8179071616] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:15:28,004 - [8179071616] - INFO - base:start(): Scheduler started
+2023-03-25 09:15:56,107 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:15:56,238 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:15:57,661 - [8179071616] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:15:58,006 - [8179071616] - INFO - base:start(): Scheduler started
+2023-03-25 09:16:25,533 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:16:25,663 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:16:27,180 - [6108491776] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:16:27,187 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 09:16:27,557 - [6108491776] - INFO - base:start(): Scheduler started
+2023-03-25 09:16:27,908 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 09:16:28,626 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 09:16:30,867 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:16:30,998 - [8179071616] - INFO - main:run(): starting google drive authentication
+2023-03-25 09:16:32,444 - [6111866880] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:16:32,452 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 09:16:32,816 - [6111866880] - INFO - base:start(): Scheduler started
+2023-03-25 09:16:33,195 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 09:17:21,970 - [8179071616] - INFO - _internal:_log():  * Detected change in '/Users/pdua/Projects/oi_reports/main/main.py', reloading
+2023-03-25 09:17:31,501 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:17:31,632 - [8179071616] - INFO - main:run_tastic(): starting google drive authentication
+2023-03-25 09:17:34,455 - [6108606464] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:17:34,464 - [8179071616] - INFO - _internal:_log(): [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-25 09:17:34,792 - [6108606464] - INFO - base:start(): Scheduler started
+2023-03-25 09:17:35,157 - [8179071616] - INFO - _internal:_log(): [33mPress CTRL+C to quit[0m
+2023-03-25 09:17:35,951 - [8179071616] - INFO - _internal:_log():  * Restarting with stat
+2023-03-25 09:17:37,903 - [8179071616] - INFO - base:add_job(): Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-03-25 09:17:38,031 - [8179071616] - INFO - main:run_tastic(): starting google drive authentication
+2023-03-25 09:17:39,458 - [6148403200] - INFO - base:_real_add_job(): Added job "move_sheets_runner" to job store "default"
+2023-03-25 09:17:39,464 - [8179071616] - WARNING - _internal:_log():  * Debugger is active!
+2023-03-25 09:17:39,818 - [6148403200] - INFO - base:start(): Scheduler started
+2023-03-25 09:17:40,211 - [8179071616] - INFO - _internal:_log():  * Debugger PIN: 482-707-856
+2023-03-25 09:17:46,031 - [6182055936] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:17:46] "GET /next_run_times HTTP/1.1" 200 -
+2023-03-25 09:17:48,036 - [6198882304] - INFO - _internal:_log(): 127.0.0.1 - - [25/Mar/2023 09:17:48] "GET /next_run_times HTTP/1.1" 200 -
